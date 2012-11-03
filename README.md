@@ -1,4 +1,4 @@
 Batch-Periodic-Table
 ====================
 
-A fuck load of work for this periodic table that you can interact with. Took me fucking ages!
+Interactive Periodic Table. That is all. (Oh and eat shit guy who's name starts with K! I finished first) 
